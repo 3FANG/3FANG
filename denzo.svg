@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="375" fill="none">
+        <defs>
+            <pattern id="imgPattern" width="850" height="375" patternUnits="userSpaceOnUse">
+                <image href="2_resized.jpeg" width="850" height="375" preserveAspectRatio="xMidYMid meet"/>
+            </pattern>
+        </defs>
+        <g>
+            <rect width="800" height="325" x="25" y="25" fill="url(#imgPattern)" rx="15"/>
+        </g>
+        <g filter="url(#blow)" transform="translate(270, 120) scale(1.5)">
+            <g fill="#ffffff">
+                <g mask="url(#6532e5ee-7537-4f95-b45b-c4309fc10fa0)">
+                    <g>
+                        <rect fill="#ffffff" fill-opacity="0" stroke-width="2" x="0" y="0" width="85" height="85"></rect>
+                        <svg x="0" y="0" width="85" height="85">
+                            <svg fill="#1dc5db" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;" viewBox="0 0 249 249" x="0px" y="0px" fill-rule="evenodd" clip-rule="evenodd">
+                                <g>
+                                    <path class="fil0" d="M125 0c68,0 124,56 124,125 0,68 -56,124 -124,124 -69,0 -125,-56 -125,-124 0,-69 56,-125 125,-125z"></path>
+                                </g>
+                            </svg>
+                        </svg>
+                    </g>
+                    <rect width="97" height="97" transform="translate(-6, -6)" fill="url(#XC72v9Tv0pACaqTfF8DRw)"></rect>
+                </g>
+                <g transform="translate(40.19499969482422,28.400999069213867) scale(1)">
+                    <g>
+                        <path d="M18.95-19.71L22.46-36.29 33.53-36.29 25.81 0 17.06 0 16.09-3.46 15.71-3.46Q15.39-2.97 14.71-2.29 14.04-1.62 13.01-1 11.99-0.38 10.58 0.03 9.18 0.43 7.34 0.43L7.34 0.43Q5.45 0.43 4.13-0.14 2.81-0.7 1.97-1.67 1.13-2.65 0.76-4.02 0.38-5.4 0.38-7.02L0.38-7.02Q0.38-7.72 0.49-9.26 0.59-10.8 1-12.66 1.4-14.53 2.19-16.5 2.97-18.47 4.29-20.09 5.62-21.71 7.56-22.76 9.5-23.81 12.26-23.81L12.26-23.81Q13.12-23.81 14.09-23.65 15.07-23.49 15.96-23.06 16.85-22.63 17.55-21.82 18.25-21.01 18.58-19.71L18.58-19.71 18.95-19.71ZM15.88-18.52L15.88-18.52Q14.58-18.52 13.72-17.09 12.85-15.66 12.31-13.77 11.77-11.88 11.53-9.99 11.29-8.1 11.29-7.18L11.29-7.18Q11.29-6.1 11.61-5.37 11.93-4.64 12.85-4.64L12.85-4.64Q13.39-4.64 13.9-4.89 14.42-5.13 14.88-5.48 15.34-5.83 15.66-6.21 15.98-6.59 16.2-6.86L16.2-6.86 18.31-16.69Q17.93-17.28 17.31-17.9 16.69-18.52 15.88-18.52ZM58.1-10.85L42.93-10.85Q42.71-9.67 42.63-8.59 42.55-7.51 42.55-6.64L42.55-6.64Q42.55-6.16 42.61-5.56 42.66-4.97 42.85-4.46 43.04-3.94 43.39-3.59 43.74-3.24 44.39-3.24L44.39-3.24Q44.87-3.24 45.5-3.56 46.12-3.89 46.74-4.48 47.36-5.08 47.92-5.94 48.49-6.8 48.82-7.88L48.82-7.88 57.67-7.88 56.27-2.11Q55.19-1.4 53.78-0.92 52.38-0.43 50.81-0.14 49.25 0.16 47.63 0.3 46.01 0.43 44.55 0.43L44.55 0.43Q41.85 0.43 39.53-0.05 37.21-0.54 35.48-1.73 33.75-2.92 32.75-4.89 31.75-6.86 31.75-9.77L31.75-9.77Q31.75-12.42 32.59-14.96 33.43-17.5 35.4-19.47 37.37-21.44 40.69-22.63 44.01-23.81 48.98-23.81L48.98-23.81Q54.38-23.81 57.11-22.14 59.83-20.47 59.83-16.9L59.83-16.9Q59.83-15.44 59.4-13.74 58.97-12.04 58.1-10.85L58.1-10.85ZM50.11-17.28L50.11-17.28Q50.11-18.95 49.57-19.55 49.03-20.14 48.28-20.14L48.28-20.14Q47.41-20.14 46.68-19.57 45.95-19.01 45.36-18.06 44.77-17.12 44.28-15.9 43.79-14.69 43.47-13.34L43.47-13.34 49.63-13.34Q49.73-13.99 49.84-14.69L49.84-14.69Q49.95-15.28 50.03-15.98 50.11-16.69 50.11-17.28ZM74.84-19.76L75.17-19.76Q76.3-20.84 77.71-21.76L77.71-21.76Q78.95-22.52 80.62-23.17 82.3-23.81 84.35-23.81L84.35-23.81Q87.16-23.81 88.99-22.38 90.83-20.95 90.83-18.47L90.83-18.47Q90.83-17.77 90.67-16.77 90.5-15.77 90.29-14.69 90.07-13.61 89.83-12.5 89.59-11.39 89.42-10.53L89.42-10.53 87.16 0 76.19 0 79.16-14.09Q79.27-14.8 79.43-15.53 79.6-16.25 79.6-16.85L79.6-16.85Q79.6-17.66 79.19-18.17 78.79-18.68 77.98-18.68L77.98-18.68Q77-18.68 76.11-17.98 75.22-17.28 74.74-16.79L74.74-16.79 71.17 0 60.16 0 65.07-23.22 73.87-23.22 74.84-19.76ZM90.56 0L91.37-4.21 105.79-19.6 94.82-19.6 95.53-23.22 118.26-23.22 117.4-19.33 103.36-3.62 115.29-3.62 114.64 0 90.56 0ZM134.57-23.81L134.57-23.81Q140.99-23.81 143.91-21.55L143.91-21.55Q146.99-19.17 146.99-13.66L146.99-13.66Q146.99-10.26 145.85-7.53 144.72-4.81 142.67-3.02L142.67-3.02Q138.56 0.43 130.79 0.43L130.79 0.43Q124.15 0.43 121.28-2.11L121.28-2.11Q118.21-4.75 118.21-10.04L118.21-10.04Q118.21-13.55 119.64-16.42 121.07-19.28 123.77-21.17L123.77-21.17Q127.71-23.81 134.57-23.81ZM130.9-3.24L130.9-3.24Q132.25-3.24 133.25-4.75 134.24-6.26 134.84-8.45 135.43-10.64 135.73-12.99 136.03-15.34 136.03-17.06L136.03-17.06Q136.03-18.58 135.73-19.36 135.43-20.14 134.46-20.14L134.46-20.14Q133-20.14 131.95-18.58 130.9-17.01 130.25-14.85 129.6-12.69 129.3-10.42 129.01-8.15 129.01-6.75L129.01-6.75Q129.01-3.24 130.9-3.24Z" transform="translate(-0.3800000250339508, 36.290000915527344)"></path>
+                    </g>
+                </g>
+            </g>
+            </g>
+        <mask id="688f382c-7216-4ec7-9f16-8e75ffcc049d">
+            <g fill="white">
+                <rect fill-opacity="1" stroke-width="2" x="0" y="0" width="85" height="85" class="image-rect"></rect>
+                <svg x="0" y="0" width="85" height="85">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;" viewBox="0 0 249 249" x="0px" y="0px" fill-rule="evenodd" clip-rule="evenodd">
+                        <g>
+                            <path class="fil0" d="M125 0c68,0 124,56 124,125 0,68 -56,124 -124,124 -69,0 -125,-56 -125,-124 0,-69 56,-125 125,-125z"></path>
+                        </g>
+                    </svg>
+                </svg>
+            </g>
+            <g transform="translate(40.19499969482422,28.400999069213867) scale(1)" fill="black" stroke="black" stroke-width="6" stroke-linejoin="round">
+                <g>
+                    <path d="M18.95-19.71L22.46-36.29 33.53-36.29 25.81 0 17.06 0 16.09-3.46 15.71-3.46Q15.39-2.97 14.71-2.29 14.04-1.62 13.01-1 11.99-0.38 10.58 0.03 9.18 0.43 7.34 0.43L7.34 0.43Q5.45 0.43 4.13-0.14 2.81-0.7 1.97-1.67 1.13-2.65 0.76-4.02 0.38-5.4 0.38-7.02L0.38-7.02Q0.38-7.72 0.49-9.26 0.59-10.8 1-12.66 1.4-14.53 2.19-16.5 2.97-18.47 4.29-20.09 5.62-21.71 7.56-22.76 9.5-23.81 12.26-23.81L12.26-23.81Q13.12-23.81 14.09-23.65 15.07-23.49 15.96-23.06 16.85-22.63 17.55-21.82 18.25-21.01 18.58-19.71L18.58-19.71 18.95-19.71ZM15.88-18.52L15.88-18.52Q14.58-18.52 13.72-17.09 12.85-15.66 12.31-13.77 11.77-11.88 11.53-9.99 11.29-8.1 11.29-7.18L11.29-7.18Q11.29-6.1 11.61-5.37 11.93-4.64 12.85-4.64L12.85-4.64Q13.39-4.64 13.9-4.89 14.42-5.13 14.88-5.48 15.34-5.83 15.66-6.21 15.98-6.59 16.2-6.86L16.2-6.86 18.31-16.69Q17.93-17.28 17.31-17.9 16.69-18.52 15.88-18.52ZM58.1-10.85L42.93-10.85Q42.71-9.67 42.63-8.59 42.55-7.51 42.55-6.64L42.55-6.64Q42.55-6.16 42.61-5.56 42.66-4.97 42.85-4.46 43.04-3.94 43.39-3.59 43.74-3.24 44.39-3.24L44.39-3.24Q44.87-3.24 45.5-3.56 46.12-3.89 46.74-4.48 47.36-5.08 47.92-5.94 48.49-6.8 48.82-7.88L48.82-7.88 57.67-7.88 56.27-2.11Q55.19-1.4 53.78-0.92 52.38-0.43 50.81-0.14 49.25 0.16 47.63 0.3 46.01 0.43 44.55 0.43L44.55 0.43Q41.85 0.43 39.53-0.05 37.21-0.54 35.48-1.73 33.75-2.92 32.75-4.89 31.75-6.86 31.75-9.77L31.75-9.77Q31.75-12.42 32.59-14.96 33.43-17.5 35.4-19.47 37.37-21.44 40.69-22.63 44.01-23.81 48.98-23.81L48.98-23.81Q54.38-23.81 57.11-22.14 59.83-20.47 59.83-16.9L59.83-16.9Q59.83-15.44 59.4-13.74 58.97-12.04 58.1-10.85L58.1-10.85ZM50.11-17.28L50.11-17.28Q50.11-18.95 49.57-19.55 49.03-20.14 48.28-20.14L48.28-20.14Q47.41-20.14 46.68-19.57 45.95-19.01 45.36-18.06 44.77-17.12 44.28-15.9 43.79-14.69 43.47-13.34L43.47-13.34 49.63-13.34Q49.73-13.99 49.84-14.69L49.84-14.69Q49.95-15.28 50.03-15.98 50.11-16.69 50.11-17.28ZM74.84-19.76L75.17-19.76Q76.3-20.84 77.71-21.76L77.71-21.76Q78.95-22.52 80.62-23.17 82.3-23.81 84.35-23.81L84.35-23.81Q87.16-23.81 88.99-22.38 90.83-20.95 90.83-18.47L90.83-18.47Q90.83-17.77 90.67-16.77 90.5-15.77 90.29-14.69 90.07-13.61 89.83-12.5 89.59-11.39 89.42-10.53L89.42-10.53 87.16 0 76.19 0 79.16-14.09Q79.27-14.8 79.43-15.53 79.6-16.25 79.6-16.85L79.6-16.85Q79.6-17.66 79.19-18.17 78.79-18.68 77.98-18.68L77.98-18.68Q77-18.68 76.11-17.98 75.22-17.28 74.74-16.79L74.74-16.79 71.17 0 60.16 0 65.07-23.22 73.87-23.22 74.84-19.76ZM90.56 0L91.37-4.21 105.79-19.6 94.82-19.6 95.53-23.22 118.26-23.22 117.4-19.33 103.36-3.62 115.29-3.62 114.64 0 90.56 0ZM134.57-23.81L134.57-23.81Q140.99-23.81 143.91-21.55L143.91-21.55Q146.99-19.17 146.99-13.66L146.99-13.66Q146.99-10.26 145.85-7.53 144.72-4.81 142.67-3.02L142.67-3.02Q138.56 0.43 130.79 0.43L130.79 0.43Q124.15 0.43 121.28-2.11L121.28-2.11Q118.21-4.75 118.21-10.04L118.21-10.04Q118.21-13.55 119.64-16.42 121.07-19.28 123.77-21.17L123.77-21.17Q127.71-23.81 134.57-23.81ZM130.9-3.24L130.9-3.24Q132.25-3.24 133.25-4.75 134.24-6.26 134.84-8.45 135.43-10.64 135.73-12.99 136.03-15.34 136.03-17.06L136.03-17.06Q136.03-18.58 135.73-19.36 135.43-20.14 134.46-20.14L134.46-20.14Q133-20.14 131.95-18.58 130.9-17.01 130.25-14.85 129.6-12.69 129.3-10.42 129.01-8.15 129.01-6.75L129.01-6.75Q129.01-3.24 130.9-3.24Z" transform="translate(-0.3800000250339508, 36.290000915527344)"></path>
+                </g>
+            </g>
+        </mask>
+        <filter id="c9e0b944-d8e6-46ae-ab2b-c0b05ee5aafe" filterUnits="userSpaceOnUse">
+            <feColorMatrix type="matrix" values="0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 1 0"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0" y1="1" x2="0" y2="0" id="XC72v9Tv0pACaqTfF8DRw">
+            <stop offset="0%" stop-color="#f5576c"></stop>
+            <stop offset="100%" stop-color="#f093fb"></stop>
+        </linearGradient>
+        <filter id="42443b3f1de60f6b6fd3b6a9844b4764" filterUnits="objectBoundingBox">
+            <feColorMatrix type="matrix" values="0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 1 0"></feColorMatrix>
+        </filter>
+        <mask id="6532e5ee-7537-4f95-b45b-c4309fc10fa0">
+            <g mask="url(#688f382c-7216-4ec7-9f16-8e75ffcc049d)" filter="url(#c9e0b944-d8e6-46ae-ab2b-c0b05ee5aafe)">
+                <g>
+                    <rect fill="#ffffff" fill-opacity="0" stroke-width="2" x="0" y="0" width="85" height="85" class="image-rect"></rect>
+                    <svg x="0" y="0" width="85" height="85" filtersec="colorsb5666805745" class="image-svg-svg primary" style="overflow: visible;">
+                        <svg fill="#1dc5db" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;" viewBox="0 0 249 249" x="0px" y="0px" fill-rule="evenodd" clip-rule="evenodd">
+                            <g>
+                                <path class="fil0" d="M125 0c68,0 124,56 124,125 0,68 -56,124 -124,124 -69,0 -125,-56 -125,-124 0,-69 56,-125 125,-125z"></path>
+                            </g>
+                        </svg>
+                    </svg>
+                </g>
+            </g>
+        </mask>
+        <defs>
+            <filter id="filter1_d" width="360" height="240" x="245" y="67" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+                <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+                <feOffset/>
+                <feGaussianBlur stdDeviation="15"/>
+                <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.25 0"/>
+                <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+                <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+            </filter>
+        </defs>
+        <defs>
+            <filter id="blow">
+                <!-- Размытие исходного графического элемента -->
+                <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blurred"/>
+                <!-- Сохранение цвета исходного графического элемента -->
+                <feMerge>
+                    <feMergeNode in="blurred"/>
+                    <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+            </filter>
+        </defs>
+        <style>
+            html, body {
+                margin: 0;
+                padding: 0;
+              }
+              body {
+                overflow-x: hidden; 
+              }
+              
+              /* ---------- Fog ---------- */
+              .fogwrapper {
+                height: 100%;
+                position: absolute;
+                top: 0;
+                width: 100%;
+                -webkit-filter: blur(2px) grayscale(0.3) saturate(1.5) sepia(0.3);
+                filter: blur(2px) grayscale(0.3) saturate(1.5) sepia(0.3);
+                }
+              #foglayer_01, #foglayer_02, #foglayer_03 {
+                height: 100%;
+                position: absolute;
+                width: 200%;
+              }
+              #foglayer_01 .image01, #foglayer_01 .image02,
+              #foglayer_02 .image01, #foglayer_02 .image02,
+              #foglayer_03 .image01, #foglayer_03 .image02 {
+                float: left;
+                height: 100%;
+                width: 50%;
+              }
+              #foglayer_01 {
+                -webkit-animation: foglayer_01_opacity 10s linear infinite, foglayer_moveme 15s linear infinite;
+                -moz-animation: foglayer_01_opacity 10s linear infinite, foglayer_moveme 15s linear infinite;
+                animation: foglayer_01_opacity 10s linear infinite, foglayer_moveme 15s linear infinite;
+              }
+              #foglayer_02, #foglayer_03 {
+                -webkit-animation: foglayer_02_opacity 21s linear infinite, foglayer_moveme 13s linear infinite;
+                -moz-animation: foglayer_02_opacity 21s linear infinite, foglayer_moveme 13s linear infinite;
+                animation: foglayer_02_opacity 21s linear infinite, foglayer_moveme 13s linear infinite;
+              }
+              
+              /* ---------- Moving Fog ---------- */
+              /*
+                'size: cover' || 'size: 100%'; results remain the same
+                'attachment: scroll' can be added or removed; results remain the same
+                'attachment: fixed' causing unexpected results in Chrome
+                'repeat-x' || 'no-repeat'; results remain the same
+              */ 
+              #foglayer_01 .image01, #foglayer_01 .image02 {
+                background: url("https://raw.githubusercontent.com/danielstuart14/CSS_FOG_ANIMATION/master/fog1.png") center center/cover no-repeat transparent;
+              }
+              #foglayer_02 .image01, #foglayer_02 .image02,
+              #foglayer_03 .image01, #foglayer_03 .image02{
+                background: url("https://raw.githubusercontent.com/danielstuart14/CSS_FOG_ANIMATION/master/fog2.png") center center/cover no-repeat transparent;
+              }
+              
+              /* ---------- Keyframe Layer 1 ---------- */
+              @-webkit-keyframes foglayer_01_opacity {
+                0% { opacity: .1; }
+                22% { opacity: .5; }
+                40% { opacity: .28; }
+                58% { opacity: .4; }
+                80% { opacity: .16; }
+                100% { opacity: .1; }
+              }
+              @-moz-keyframes foglayer_01_opacity {
+                0% { opacity: .1; }
+                22% { opacity: .5; }
+                40% { opacity: .28; }
+                58% { opacity: .4; }
+                80% { opacity: .16; }
+                100% { opacity: .1; }
+              }
+              @-o-keyframes foglayer_01_opacity {
+                0% { opacity: .1; }
+                22% { opacity: .5; }
+                40% { opacity: .28; }
+                58% { opacity: .4; }
+                80% { opacity: .16; }
+                100% { opacity: .1; }
+              }
+              @keyframes foglayer_01_opacity {
+                0% { opacity: .1; }
+                22% { opacity: .5; }
+                40% { opacity: .28; }
+                58% { opacity: .4; }
+                80% { opacity: .16; }
+                100% { opacity: .1; }
+              }
+              /* ---------- Keyframe Layer 2 ---------- */
+              @-webkit-keyframes foglayer_02_opacity {
+                0% { opacity: .5; }
+                25% { opacity: .2; }
+                50% { opacity: .1; }
+                80% { opacity: .3; }
+                100% { opacity: .5; }
+              }
+              @-moz-keyframes foglayer_02_opacity {
+                0% { opacity: .5; }
+                25% { opacity: .2; }
+                50% { opacity: .1; }
+                80% { opacity: .3; }
+                100% { opacity: .5; }
+              }
+              @-o-keyframes foglayer_02_opacity {
+                0% { opacity: .5; }
+                25% { opacity: .2; }
+                50% { opacity: .1; }
+                80% { opacity: .3; }
+                100% { opacity: .5; }
+              }
+              @keyframes foglayer_02_opacity {
+                0% { opacity: .5; }
+                25% { opacity: .2; }
+                50% { opacity: .1; }
+                80% { opacity: .3; }
+                100% { opacity: .5; }
+              }
+              /* ---------- Keyframe Layer 3 ---------- */
+              @-webkit-keyframes foglayer_03_opacity {
+                0% { opacity: .8 }
+                27% { opacity: .2; }
+                52% { opacity: .6; }
+                68% { opacity: .3; }
+                100% { opacity: .8; }
+              }
+              @-moz-keyframes foglayer_03_opacity {
+                0% { opacity: .8 }
+                27% { opacity: .2; }
+                52% { opacity: .6; }
+                68% { opacity: .3; }
+                100% { opacity: .8; }
+              }
+              @-o-keyframes foglayer_03_opacity {
+                0% { opacity: .8 }
+                27% { opacity: .2; }
+                52% { opacity: .6; }
+                68% { opacity: .3; }
+                100% { opacity: .8; }
+              }
+              @keyframes foglayer_03_opacity {
+                0% { opacity: .8; }
+                27% { opacity: .2; }
+                52% { opacity: .6; }
+                68% { opacity: .3; }
+                100% { opacity: .8; }
+              }
+              /* ---------- Keyframe moveMe ---------- */
+              @-webkit-keyframes foglayer_moveme {
+                0% { left: 0; }
+                100% { left: -100%; }
+              }
+              @-moz-keyframes foglayer_moveme {
+                0% { left: 0; }
+                100% { left: -100%; }
+              }
+              @-o-keyframes foglayer_moveme {
+                0% { left: 0; }
+                100% { left: -100%; }
+              }
+              @keyframes foglayer_moveme {
+                0% { left: 0; }
+                100% { left: -100%; }
+              }
+              
+              @media only screen
+                and (min-width: 280px)
+                and (max-width: 767px) {
+                  #foglayer_01 .image01, #foglayer_01 .image02,
+                  #foglayer_02 .image01, #foglayer_02 .image02,
+                  #foglayer_03 .image01, #foglayer_03 .image02 {
+                    width: 100%;
+                  }
+                }
+        </style>
+        <foreignObject x="25" y="25" width="800" height="325" style="border-radius: 15px;">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                  <div id="foglayer_01" class="fog">
+                    <div class="image01"></div>
+                    <div class="image02"></div>
+                  </div>
+                  <div id="foglayer_02" class="fog">
+                    <div class="image01"></div>
+                    <div class="image02"></div>
+                  </div>
+                  <div id="foglayer_03" class="fog">
+                    <div class="image01"></div>
+                    <div class="image02"></div>
+                  </div>
+                  <div id="foglayer_03" class="fog">
+                    <div class="image01"></div>
+                    <div class="image02"></div>
+                  </div>
+            </div>
+        </foreignObject>
+    </svg>
