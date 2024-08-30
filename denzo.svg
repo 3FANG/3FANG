@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="375" fill="none">
         <defs>
             <pattern id="imgPattern" width="850" height="375" patternUnits="userSpaceOnUse">
-                <image href="https://github.com/3FANG/3FANG/blob/main/background.jpeg?raw=true" width="850" height="375" preserveAspectRatio="xMidYMid meet"/>
+                <image href="https://raw.githubusercontent.com/3FANG/3FANG/main/background.jpeg" width="850" height="375" preserveAspectRatio="xMidYMid meet"/>
             </pattern>
         </defs>
         <g>
