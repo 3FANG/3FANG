@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="375" fill="none">
         <defs>
             <pattern id="imgPattern" width="850" height="375" patternUnits="userSpaceOnUse">
-                <image xlink:href="./background.jpeg" width="850" height="375" preserveAspectRatio="xMidYMid meet"/>
+                <image href="./background.jpeg" width="850" height="375" preserveAspectRatio="xMidYMid meet"/>
             </pattern>
         </defs>
         <g>
